@@ -29,8 +29,6 @@ Use the table of contentes icon on the top left corner of this document to get t
 
 Disclaimer: Readkerly is a reading tracker and not a book reading app. This software does not contain any books, it just logs your reading and saves quotes, etc.
 
----
-
 ## Contributing
 
 See [the contributing guide](CONTRIBUTING.md) for detailed instructions on how to get started with our project.
