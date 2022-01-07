@@ -48,7 +48,7 @@ titles = {
 
 phrases = {
     "welcome": "Welcome to Readkerly!! I'm Kerly, your new personasl assistant.",
-    "start": "Let's start by setting up your reading goals.",
+    "start": ", let's start by setting up your reading goals.",
     "username": "How should I  call you?: ",
     "books": "How many books do you want to read in a year?: ",
     "reading time": "How much time do you want to read per day? (mins): ",

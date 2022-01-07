@@ -1,5 +1,7 @@
 from new_user import username as create_user
-from main import user_info
+from main import user_info as info_main
+from settings import user_info as info_settings
+from os.path import exists
 import pyinputplus as pyip
 import json
 
@@ -8,7 +10,7 @@ def start():
     while not exists("users_data.json"):
         create_user()
 
-    print("Welcome back to Readkerly!! WHat would you like to do?")
+    print("\nWelcome back to Readkerly!! What would you like to do?")
     action = pyip.inputInt(
         """
     1. Login to an existing account.
@@ -35,7 +37,8 @@ def action_check(action):
             print("This user does not exist.")
             action_check(1)
         else:
-            user_info(username)
+            info_main(username)
+            info_settings(username)
 
     elif action == 2:
         print("\n")
