@@ -1,17 +1,17 @@
 # Readkerly
 
-This repository contains the documentaton and source files for Readkerly. Readkerly is a software for books and reading tracking.
+This repository contains the documentation and source files for Readkerly. Readkerly is a software for books and reading tracking.
 
 Use the table of contentes icon on the top left corner of this document to get to a specific section of this guide quickly.
 
 ## 📚 Track your reading 📚
 
 - Start the timer every time you read.
-- Log the current pahe number of the books you're reading.
+- Log the current number of the books you're reading.
 - See how long it took you to finish the book.
 - Set a book goal to finish your book by a given milestone.
 - Play ambient sounds while you read.
-- Generate reports foor every book you read.
+- Generate reports for every book you read.
 
 ## 📊 Reading stats and reports 📊
 
@@ -33,13 +33,13 @@ Disclaimer: Readkerly is a reading tracker and not a book reading app. This soft
 
 See [the contributing guide](CONTRIBUTING.md) for detailed instructions on how to get started with our project.
 
-For quick fixes and more complex contributions, you can open an issue using the most appropiate [issue template](https://github.com/carmoruda/readkerly/issues/new/choose) to describe the changes you'd like to see.
+For quick fixes and more complex contributions, you can open an issue using the most appropriate [issue template](https://github.com/carmoruda/readkerly/issues/new/choose) to describe the changes you'd like to see.
 
 If you're looking for a way to contribute, you can scan through our [existing issues](https://github.com/carmoruda/readkerly/issues) for something to work on. When ready, check out [Getting Started with Contributing](/CONTRIBUTING.md) for detailed instructions.
 
 ## License
 
-The Readkerly product documenttation in the assets, content, and data folders are licensed under a [GNU General Public License](/LICENSE.md).
+The Readkerly product documentation in the assets, content, and data folders are licensed under a [GNU General Public License](/LICENSE.md).
 
 ## Thanks 💛
 
